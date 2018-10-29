@@ -1,0 +1,26 @@
+[meta]
+name = "TestApp"
+type = "UI"
+
+[UI]
+framework = "ReactJS"
+library = "mobx,axios"
+
+[Server]
+framework = "Express"
+library = 
+framework = "Flask"
+framework = "Falcon"
+framework = "Spark"
+framework = "Go"
+
+[Store]
+database = "MongoDB"
+database = "PostgreSQL"
+database = "Redis"
+
+[ReverseProxy]
+proxy = "Nginx"
+proxy = "Kong"
+
+
